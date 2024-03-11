@@ -32,8 +32,8 @@ Sentinel-2 level 2B snow products have a 1-year period and a spatial resolution 
 - `*SCD*.tif`: snow cover duration in number of days i.e. the *total* number of snow days over the period.
 - `*SMOD*.tif`: date of snow disappearance (Snow Melt-Out Date), defined as the last date of the longest snow period. The dates are given in number of days since the first date of the synthesis.
 - `*SOD*.tif`: date of snow appearance (Snow Onset Date), defined as the first date of the longest snow period. The dates are given in number of days since the first date of the synthesis.
-- `*NSP*.tif`: number of periods, a snow period being a continuous period of snow cover at the daily time step (experimental)
-- `*NOBS*.tif`: number of clear observations to compute the SCD, SMOD, SOD and NSP
+- `*NSP*.tif`: number of snow periods, a snow period being a continuous period of snow cover at the daily time step (experimental)
+- `*NOBS*.tif`: number of clear observations to compute the SCD, SMOD, SOD and NSP (can be used as a quality indicator)
 
 The filename of the product also indicates the aggregation period
 - `start_date-end_date` (date in `yyymmdd` format)
