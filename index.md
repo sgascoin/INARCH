@@ -70,6 +70,8 @@ The snow cover detection is based on several test including the the normalized d
 
 Feel free to [open an issue](https://github.com/sgascoin/INARCH/issues) if you have a request or a comment.
 
+## References
+
 [1] Gascoin, S., Grizonnet, M., Bouchet, M., Salgues, G., & Hagolle, O. (2019). Theia Snow collection : High-resolution operational snow cover maps from Sentinel-2 and Landsat-8 data. Earth System Science Data, 11(2), 493‑514. https://doi.org/10.5194/essd-11-493-2019
 
 [2] Barrou Dumont, Z., Gascoin, S., Hagolle, O., Ablain, M., Jugier, R., Salgues, G., Marti, F., Dupuis, A., Dumont, M., & Morin, S. (2021). Brief communication : Evaluation of the snow cover detection in the Copernicus High Resolution Snow & Ice Monitoring Service. The Cryosphere, 15(10), 4975‑4980. https://doi.org/10.5194/tc-15-4975-2021
