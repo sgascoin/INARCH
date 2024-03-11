@@ -10,7 +10,7 @@ Sentinel-2 level 2B snow products have a 5-day revisit and a spatial resolution 
 - 0: No-snow
 - ]0-100]: Snow cover fraction in percent
 - 205: Cloud including cloud shadow
-- 255: No data
+- 255: No data (permanent water bodies are classified as nodata)
 
 `LIS_S2-SNOW-FSC-QCFLAGS*.tif` provides quality flags for more expert users:
 - bit 0: MAJA sun too low for an accurate slope correction
