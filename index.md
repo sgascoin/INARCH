@@ -36,11 +36,11 @@ Sentinel-2 level 2B snow products have a 1-year period and a spatial resolution 
 - `*NOBS*.tif`: number of clear observations to compute the SCD, SMOD, SOD and NSP
 
 The filename of the product also indicates the aggregation period
-- `start_date-stop_date` (`yyymmdd` format)
+- `start_date-end_date` (date in `yyymmdd` format)
 
 ### Data access
 
-The data by Sentinel-2 tile are available from different sources. European catchments are already covered by Copernicus Land and can be obtained from https://doi.org/10.2909/3e2b4b7b-a460-41dd-a373-962d032795f3. INARCH catchments outside Europe were processed by CNES over the period 2020-2023 and are available from https://hydroweb.next.theia-land.fr/. I cropped some of these INARCH products by region of interest to simplify the data download and use (contact me if you wish to modify the region). The cropped products are available here: https://mycore.cnrs.fr/index.php/s/XmwmjpqWKXuyFMS. In the future I may include more catchments, especially in Europe if that is useful. Below are the snow cover duration (SCD) from the level 3B products.
+The data by Sentinel-2 tile are available from different sources. European catchments are already covered by Copernicus Land and can be obtained from [https://doi.org/10.2909/3e2b4b7b-a460-41dd-a373-962d032795f3](https://doi.org/10.2909/3e2b4b7b-a460-41dd-a373-962d032795f3). INARCH catchments outside Europe were processed by CNES over the period 2020-2023 and are available from [https://hydroweb.next.theia-land.fr/](https://hydroweb.next.theia-land.fr/). I cropped some of these INARCH products by region of interest to simplify the data download and use (contact me if you wish to modify the region). The cropped products are available here: [https://mycore.cnrs.fr/index.php/s/XmwmjpqWKXuyFMS](https://mycore.cnrs.fr/index.php/s/XmwmjpqWKXuyFMS). In the future I may include more catchments, especially in Europe if that is useful. Below are the snow cover duration (SCD) from the level 3B products.
 
 ![WolfCreek](https://github.com/sgascoin/INARCH/assets/29677722/bfe775de-3fd1-44dc-8b11-2398572bbe03)
 ![ValleHermoso](https://github.com/sgascoin/INARCH/assets/29677722/22a6e123-3df2-4525-8d88-70cb90fddbe6)
