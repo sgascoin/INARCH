@@ -1,4 +1,4 @@
-# INARCH Sentinel-2 snow products
+# Sentinel-2 snow products
 
 ## Data
 
@@ -66,7 +66,9 @@ The map below indicates where to access the (non-cropped) data.
 
 The data were generated using the [MAJA]([url](https://gitlab.orfeo-toolbox.org/maja/maja/)) and [LIS]([url](https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow)https://gitlab.orfeo-toolbox.org/remote_modules/let-it-snow) pipeline [1]. MAJA and LIS are open source software created at [CESBIO]([url](https://www.cesbio.cnrs.fr/)) and maintained in collaboration with CNES. This pipeline is used in operational mode for Theia (CNES) and Copernicus Land (EEA).
 
-The snow cover detection is based on several test including the the normalized difference snow index (NDSI). The snow cover fraction is also computed using the NDSI using an empirical function. The accuracy of the snow detection at 20 m resolution (i.e. 0 > FSC ≥ 100) was estimated to 94% (proportion of correct classifications) [2]. The accuracy of the snow cover fraction was estimated to ~30% at 20 m resolution [3]. The snow cover detection can fail in steep shaded slopes and dense forests. The set of INARCH tiles (outside Europe) was generated using the latest version of LIS (1.10) which includes an enhanced algorithm for shaded snow. Quality flags can be used to filter these pixels. In addition, FSC products with a non-valid ZS value (-1000) are expected to be less reliable (see in the metadata file).  
+The snow cover detection is based on several test including the the normalized difference snow index (NDSI). The snow cover fraction is also computed using the NDSI using an empirical function. The accuracy of the snow detection at 20 m resolution (i.e. 0 > FSC ≥ 100) was estimated to 94% (proportion of correct classifications) [2]. The accuracy of the snow cover fraction was estimated to ~30% at 20 m resolution [3]. The snow cover detection can fail in steep shaded slopes and dense forests. The set of INARCH tiles (outside Europe) was generated using the latest version of LIS (1.10) which includes an enhanced algorithm for shaded snow. Quality flags can be used to filter these pixels. In addition, FSC products with a non-valid ZS value (-1000) are expected to be less reliable (see in the metadata file).
+
+Feel free to [open an issue](https://github.com/sgascoin/INARCH/issues) if you have a request or a comment.
 
 [1] Gascoin, S., Grizonnet, M., Bouchet, M., Salgues, G., & Hagolle, O. (2019). Theia Snow collection : High-resolution operational snow cover maps from Sentinel-2 and Landsat-8 data. Earth System Science Data, 11(2), 493‑514. https://doi.org/10.5194/essd-11-493-2019
 
