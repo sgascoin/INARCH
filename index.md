@@ -42,21 +42,22 @@ The filename of the product also indicates the aggregation period
 
 The data by Sentinel-2 tile are available from different sources. European catchments are already covered by Copernicus Land and can be obtained from [https://doi.org/10.2909/3e2b4b7b-a460-41dd-a373-962d032795f3](https://doi.org/10.2909/3e2b4b7b-a460-41dd-a373-962d032795f3). INARCH catchments outside Europe were processed by CNES over the period 2020-2023 and are available from [https://hydroweb.next.theia-land.fr/](https://hydroweb.next.theia-land.fr/). I cropped some of these INARCH products by region of interest to simplify the data download and use (contact me if you wish to modify the region). The cropped products are available here: [https://mycore.cnrs.fr/index.php/s/XmwmjpqWKXuyFMS](https://mycore.cnrs.fr/index.php/s/XmwmjpqWKXuyFMS). In the future I may include more catchments, especially in Europe if that is useful. Below are the snow cover duration (SCD) from the level 3B products.
 
-![WolfCreek](https://github.com/sgascoin/INARCH/assets/29677722/bfe775de-3fd1-44dc-8b11-2398572bbe03)
-![ValleHermoso](https://github.com/sgascoin/INARCH/assets/29677722/22a6e123-3df2-4525-8d88-70cb90fddbe6)
-![Salcca](https://github.com/sgascoin/INARCH/assets/29677722/8eed5316-9f69-4078-9cca-2ae9e1ace29e)
-![ReynoldsCreek](https://github.com/sgascoin/INARCH/assets/29677722/5846cc1d-3e88-431a-b936-046ebba6f80e)
-![Peyto](https://github.com/sgascoin/INARCH/assets/29677722/bbccac5b-7127-4ffe-9c07-2a34daf3ffb8)
-![Marmot](https://github.com/sgascoin/INARCH/assets/29677722/b5020ee9-ca42-4b8d-a9dc-047204f1ee58)
-![Leiwuqi](https://github.com/sgascoin/INARCH/assets/29677722/398fa629-a119-40e5-bbda-0ddbd888951a)
-![Langtang](https://github.com/sgascoin/INARCH/assets/29677722/c0c03c69-6e4e-4400-aeea-df0756360cf3)
-![Kyzylsu](https://github.com/sgascoin/INARCH/assets/29677722/15645781-6da7-4b93-87bc-8d8c633293d6)
-![Helen](https://github.com/sgascoin/INARCH/assets/29677722/fcc5b091-cfb0-43cb-91f1-3d758d93778c)
-![Fugle](https://github.com/sgascoin/INARCH/assets/29677722/2a0edc34-1199-4017-b3cb-5958b5c8307f)
-![Fortress](https://github.com/sgascoin/INARCH/assets/29677722/d7444457-4df7-4960-86a9-7d931eb3e445)
-![EsteroLasBayas](https://github.com/sgascoin/INARCH/assets/29677722/cf16c8ce-c78a-49a1-b897-edf2ec601e22)
-![Djankuat](https://github.com/sgascoin/INARCH/assets/29677722/f79ac52b-53ce-48ee-bd03-4aad267c3305)
-![Brewster](https://github.com/sgascoin/INARCH/assets/29677722/b6e4c621-fc03-4d2e-9331-f8ae9e6f2007)
+![Brewster](https://github.com/sgascoin/INARCH/assets/29677722/4f388f4d-3fa3-4880-80f8-a015580ec958)
+![Djankuat](https://github.com/sgascoin/INARCH/assets/29677722/18d2726a-f27c-4ea8-8b47-49635bcbe536)
+![EsteroLasBayas](https://github.com/sgascoin/INARCH/assets/29677722/71ae7ade-4cd8-42a1-8507-b46f5f05580a)
+![Fortress](https://github.com/sgascoin/INARCH/assets/29677722/631e771a-b8cb-48d7-9fea-2f04ed2fc496)
+![Fugle](https://github.com/sgascoin/INARCH/assets/29677722/7bc3fafc-8aa7-49d7-ae50-068b89e0edd9)
+![Helen](https://github.com/sgascoin/INARCH/assets/29677722/e31b9c5a-965c-4787-bf7b-d15f848a53ca)
+![Kyzylsu](https://github.com/sgascoin/INARCH/assets/29677722/7eec6924-0cdf-4b7a-b8b5-43107bcf960e)
+![Langtang](https://github.com/sgascoin/INARCH/assets/29677722/f9dbac1c-537f-4e63-b815-88f640b9c039)
+![Leiwuqi](https://github.com/sgascoin/INARCH/assets/29677722/de6df943-43e9-4295-b9d0-107de33c845d)
+![Marmot](https://github.com/sgascoin/INARCH/assets/29677722/3e3469f2-3194-4fb0-b157-ab0d676d39d7)
+![Nissai](https://github.com/sgascoin/INARCH/assets/29677722/fef8632a-c625-4fba-99fa-6ea5bc6a3756)
+![Peyto](https://github.com/sgascoin/INARCH/assets/29677722/ab830839-6521-4595-8076-3bbe7fa5a7e2)
+![ReynoldsCreek](https://github.com/sgascoin/INARCH/assets/29677722/cb187804-6361-40c6-acfd-0660309a0f93)
+![Salcca](https://github.com/sgascoin/INARCH/assets/29677722/a21175c4-4d68-4d96-8351-1a2f3a998645)
+![ValleHermoso](https://github.com/sgascoin/INARCH/assets/29677722/f6c339ce-4d4b-4dfa-ba90-ed39c6a34338)
+![WolfCreek](https://github.com/sgascoin/INARCH/assets/29677722/915c319e-9aed-45e2-ab0a-acfd60337716)
 
 The map below indicates where to access the (non-cropped) data.
 
